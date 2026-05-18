@@ -30,7 +30,7 @@ A full-stack tracking and dashboard application built for instructors to log stu
 ## How to Run the Project
 
 ### frontend
-npm install
+npm install,
 npm run dev
 
 ### 1. Run the Backend API
